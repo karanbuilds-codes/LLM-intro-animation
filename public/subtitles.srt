@@ -1,0 +1,99 @@
+1
+00:00:00,000 --> 00:00:07,000
+Tapai le kahile sochnu bhayeko cha? AI le kasari hamro question bujh-era answer dincha?
+
+2
+00:00:07,000 --> 00:00:15,000
+Kasari ChatGPT jasto AI le text lekhna, question answer garna, ra naya ideas dina sakcha?
+
+3
+00:00:15,000 --> 00:00:20,000
+Yo sabai bujhna, hami aaja LLM bata suru garchhau.
+
+4
+00:00:20,000 --> 00:00:28,000
+LLM ko full form ho Large Language Model.
+
+5
+00:00:28,000 --> 00:00:39,000
+Simple words ma, yo AI ko ek type ho, jasle dherai text bata language ko patterns sikeko huncha.
+
+6
+00:00:39,000 --> 00:00:50,000
+Tespachi, yo learned patterns use garera human language ma response generate garna sakcha.
+
+7
+00:00:50,000 --> 00:01:00,000
+LLM ko core idea language ko patterns learn garnu ho.
+
+8
+00:01:00,000 --> 00:01:12,000
+Training ko bela model le dherai text bata words, sentences, grammar, ra context bich ko relationship sikcha.
+
+9
+00:01:12,000 --> 00:01:25,000
+“The sun rises in the...” bhanda model le “east” jasto word likely predict garna sakcha. Tara yo simple copy-paste machine matra hoina.
+
+10
+00:01:25,000 --> 00:01:36,000
+Jaba tapai prompt dinuhuncha, jastai “Explain gravity simply,” model le input text lai tokens ma process garcha.
+
+11
+00:01:36,000 --> 00:01:45,000
+Token bhaneko whole word, word ko part, wa aru text unit huna sakcha.
+
+12
+00:01:45,000 --> 00:01:58,000
+Neural network le context ra learned patterns process garcha. Model le next token ko probability estimate garcha.
+
+13
+00:01:58,000 --> 00:02:10,000
+Decoding process anusar token select garcha. Yo process repeat huda response step by step generate huncha.
+
+14
+00:02:10,000 --> 00:02:22,000
+Training bhaneko model lai data bata patterns sikhaune process ho. Training ko bela model ko parameters adjust hunchan.
+
+15
+00:02:22,000 --> 00:02:35,000
+Inference bhaneko trained model lai use garera question ko response generate garne process ho.
+
+16
+00:02:35,000 --> 00:02:45,000
+Training ma model prepare huncha; inference ma tapai uslai question sodhnu huncha.
+
+17
+00:02:45,000 --> 00:02:55,000
+LLM le education ma concept explain garna, writing ma help garna, coding ma suggestions dina sakcha.
+
+18
+00:02:55,000 --> 00:03:08,000
+Language translate garna, ra long information summarize garna pani sakcha. Yo learning ra productivity ko lagi useful tool ho.
+
+19
+00:03:08,000 --> 00:03:20,000
+Tara result check garnu, aafno judgement use garnu, ra important kaam ma blindly trust nagarnu ramro.
+
+20
+00:03:20,000 --> 00:03:31,000
+LLM le confident answer diye pani answer sadhai correct huncha bhanne chaina.
+
+21
+00:03:31,000 --> 00:03:43,000
+Kahile kahi wrong facts, outdated information, wa made-up details dina sakcha.
+
+22
+00:03:43,000 --> 00:03:55,000
+Fluent answer dekhidai ma tyo true huncha bhanne hudaina. Important information reliable sources bata verify garnu parcha.
+
+23
+00:03:55,000 --> 00:04:07,000
+LLM bhaneko large amounts of text bata language patterns learn garne AI model ho.
+
+24
+00:04:07,000 --> 00:04:17,000
+Yo input lai tokens ma process garcha, context use garcha, ra next tokens generate gardai response banaucha.
+
+25
+00:04:17,000 --> 00:04:30,000
+Aba tapai lai LLM ko basic concept clear bhayo hola. Yo AI learning journey ko first step ho. Subscribe garnu hola!

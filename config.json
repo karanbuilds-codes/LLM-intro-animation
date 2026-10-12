@@ -1,0 +1,49 @@
+{
+  "duration_seconds": 270,
+  "sample_rate": 44100,
+  "tempo_bpm": 72,
+  "master_volume": 0.82,
+  "target_peak_dbfs": -1.0,
+  "target_rms_dbfs": -22.0,
+  "fade_in_seconds": 5.0,
+  "fade_out_seconds": 9.0,
+  "music_level_for_voiceover": 0.72,
+  "layer_volumes": {
+    "drone": 0.20,
+    "pad": 0.30,
+    "shimmer": 0.11,
+    "texture": 0.055,
+    "pulse": 0.085,
+    "effects": 0.22
+  },
+  "scenes": [
+    {"name":"Opening / Hook", "start":0, "end":20, "key":"opening"},
+    {"name":"What is an LLM?", "start":20, "end":50, "key":"intro"},
+    {"name":"Learning language patterns", "start":50, "end":85, "key":"neural"},
+    {"name":"Tokens and data processing", "start":85, "end":130, "key":"processing"},
+    {"name":"Training and inference", "start":130, "end":165, "key":"architecture"},
+    {"name":"Uses and generated language", "start":165, "end":200, "key":"generation"},
+    {"name":"Limitations and verification", "start":200, "end":235, "key":"limits"},
+    {"name":"Conclusion / Outro", "start":235, "end":270, "key":"ending"}
+  ],
+  "cues": [
+    {"time":0.5, "type":"opening_swell", "duration":7.5, "level":0.85},
+    {"time":7.0, "type":"soft_ping", "duration":2.6, "level":0.48},
+    {"time":20.0, "type":"transition", "duration":3.2, "level":0.48},
+    {"time":31.0, "type":"soft_ping", "duration":2.4, "level":0.32},
+    {"time":50.0, "type":"neural_reveal", "duration":5.0, "level":0.68},
+    {"time":63.0, "type":"connected_pings", "duration":4.5, "level":0.42},
+    {"time":85.0, "type":"transition", "duration":3.6, "level":0.50},
+    {"time":94.0, "type":"data_flow", "duration":5.5, "level":0.52},
+    {"time":110.0, "type":"data_flow", "duration":4.2, "level":0.38},
+    {"time":130.0, "type":"architecture_build", "duration":8.0, "level":0.72},
+    {"time":147.0, "type":"soft_ping", "duration":2.8, "level":0.40},
+    {"time":165.0, "type":"language_reveal", "duration":5.8, "level":0.60},
+    {"time":180.0, "type":"connected_pings", "duration":4.2, "level":0.36},
+    {"time":200.0, "type":"transition", "duration":4.0, "level":0.40},
+    {"time":216.0, "type":"soft_ping", "duration":2.5, "level":0.25},
+    {"time":235.0, "type":"final_reveal", "duration":9.0, "level":0.80},
+    {"time":253.0, "type":"soft_ping", "duration":3.2, "level":0.40},
+    {"time":260.0, "type":"ending_chime", "duration":8.0, "level":0.72}
+  ]
+}

@@ -1,0 +1,36 @@
+LLM EXPLAINER — NARRATION SCRIPT
+Target duration: approximately 4 minutes 30 seconds
+Language: conversational simple English
+Recording tip: speak warmly and clearly; leave a small pause between sections.
+
+[00:00–00:20] SCENE 1 — HOOK
+How does AI understand language ?How can AI like ChatGPT write text, answer questions, and come up with new ideas? To understand all this, let’s start with LLMs today.
+
+[00:20–00:50] SCENE 2 — WHAT DOES LLM MEAN?
+LLM stands for Large Language Model. In Simple words,it is a type of AI, which learn language pattern from different texts. “Large”means big; “Language” means words and sentences; “Model” means patterns that learn computer system. 
+
+[00:50–01:25] SCENE 3 — LEARNING PATTERNS
+The core idea of an LLM is to learn patterns in language. During training, the model learns relationships between words, sentences, grammar, and context from a large amount of text.
+For example,“The sun rises in the...”, the model can predict a word like “east”.
+It learns complex patterns that help it generate new combinations of text.
+This is a simplified visual explanation of a neural network, but it is not an exact copy of the human brain.
+
+[01:25–02:10] SCENE 4 — HOW AN LLM WORKS
+When you give a prompt, such as “Explain gravity simply,” the model processes the input text into tokens. A token can be a whole word, part of a word, or another unit of text.
+Then, the neural network processes the context and learned patterns. This process repeats, and the response is generated step by step.
+
+[02:10–02:45] SCENE 5 — TRAINING VS INFERENCE
+Training is the process of teaching a model to learn patterns from data. During training, the model’s parameters are adjusted to improve its predictions.Training and inference are related, but they are not the same thing.
+
+[02:45–03:20] SCENE 6 — WHAT CAN LLMS DO?
+LLMs can explain concepts in education, help with writing, provide coding suggestions, translate languages, and summarize long information.
+They are useful tools for learning and improving productivity. However, it is important to check the results, use your own judgment, and never blindly trust AI for important tasks.
+
+[03:20–03:55] SCENE 7 — LIMITATIONS
+One important thing to remember is that even when an LLM gives a confident answer, it is not always correct. Sometimes, it may provide wrong facts, outdated information, or made-up details.
+
+[03:55–04:30] SCENE 8 — RECAP AND OUTRO
+In simple words, an LLM is an AI model that learns language patterns from large amounts of text. It processes input into tokens, uses context, and generates responses by predicting the next tokens.
+Now, you should have a basic understanding of LLMs. This is the first step in your AI learning journey!
+For more simple explanations about AI, please subscribe to the channel.
+See you in the next episode!

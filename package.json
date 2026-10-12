@@ -1,0 +1,19 @@
+{
+  "name": "cinematic-llm-education-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A beginner-friendly cinematic LLM explainer built with Remotion and React.",
+  "scripts": {
+    "dev": "remotion studio src/index.jsx",
+    "preview": "remotion studio src/index.jsx",
+    "render": "remotion render src/index.jsx LLMExplainer out/llm-explainer.mp4",
+    "still": "remotion still src/index.jsx LLMExplainer out/thumbnail.png --frame=90"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "@remotion/google-fonts": "4.0.534",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.534"
+  }
+}
